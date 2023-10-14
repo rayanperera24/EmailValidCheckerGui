@@ -1,0 +1,16 @@
+C:\Users\Rayan\Desktop\practice systems\valid email address check\bin\Debug\net6.0-windows\valid email address check.exe
+C:\Users\Rayan\Desktop\practice systems\valid email address check\bin\Debug\net6.0-windows\valid email address check.deps.json
+C:\Users\Rayan\Desktop\practice systems\valid email address check\bin\Debug\net6.0-windows\valid email address check.runtimeconfig.json
+C:\Users\Rayan\Desktop\practice systems\valid email address check\bin\Debug\net6.0-windows\valid email address check.dll
+C:\Users\Rayan\Desktop\practice systems\valid email address check\bin\Debug\net6.0-windows\valid email address check.pdb
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid_email_address_check.Form1.resources
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.csproj.GenerateResource.cache
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.AssemblyInfoInputs.cache
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.AssemblyInfo.cs
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.dll
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\refint\valid email address check.dll
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.pdb
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\valid email address check.genruntimeconfig.cache
+C:\Users\Rayan\Desktop\practice systems\valid email address check\obj\Debug\net6.0-windows\ref\valid email address check.dll
